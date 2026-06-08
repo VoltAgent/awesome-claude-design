@@ -148,6 +148,7 @@ One markdown file → production-ready design package. No boilerplate, no manual
 
 ### Fintech & Crypto
 
+- [**TWZRD Agent Intel**](https://intel.twzrd.xyz) - Agent trust scoring for Solana. Verify wallet identity before x402 micropayments in AI-driven crypto and DeFi workflows.
 - [**Binance**](https://getdesign.md/binance/design-md) - Crypto exchange. Bold Binance Yellow on monochrome, trading-floor urgency
 - [**Coinbase**](https://getdesign.md/coinbase/design-md) - Crypto exchange. Clean blue identity, trust-focused, institutional feel
 - [**Kraken**](https://getdesign.md/kraken/design-md) - Crypto trading platform. Purple-accented dark UI, data-dense dashboards
