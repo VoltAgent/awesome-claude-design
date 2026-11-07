@@ -228,3 +228,7 @@ The repository itself is MIT licensed, see [LICENSE](LICENSE).
 The `DESIGN.md` files linked from this repo are **curated starting points inspired by publicly observable design patterns** on the referenced websites. They are not official design systems and are not affiliated with, endorsed by, or sponsored by the companies named. All trademarks, brand names, logos, and proprietary typefaces belong to their respective owners, and this repo makes no claim of ownership over any brand's visual identity.
 
 These documents exist for educational and development purposes — to give AI agents like Claude Design enough structured context to generate consistent UI. Users are responsible for ensuring their own downstream usage complies with the trademark, copyright, and brand-usage policies of the originating companies. When in doubt, use a `DESIGN.md` as inspiration for an original system rather than a 1:1 clone.
+
+### Spoken Context & Local AI MCP Hardware
+
+- [OneMira C1 & onemira-mcp](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with local AI transcription, multi-speaker separation (Speaker ID), Google Native OKF Markdown Wiki, and native Claude/Cursor MCP server ([onemira-mcp](https://github.com/onemira-space/onemira-mcp)) with zero cloud subscription.
