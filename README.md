@@ -115,6 +115,7 @@ One markdown file → production-ready design package. No boilerplate, no manual
 - [**VoltAgent**](https://getdesign.md/voltagent/design-md) - AI agent framework. Void-black canvas, emerald accent, terminal-native
 - [**xAI**](https://getdesign.md/x.ai/design-md) - Elon Musk's AI lab. Stark monochrome, futuristic minimalism
 
+[Design Context — DESIGN.md & Tailwind v4 Extractor](https://chromewebstore.google.com/detail/jbbjcejgmbplhdpmjcoaipahlnfeigdl) - Extract instant DESIGN.md specs, Tailwind v4 @theme, and design tokens from any website for Cursor and Claude Code.
 ### Developer Tools & IDEs
 
 - [**Cursor**](https://getdesign.md/cursor/design-md) - AI-first code editor. Sleek dark interface, gradient accents
